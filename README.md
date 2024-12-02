@@ -12,7 +12,7 @@
 - Publishing house "Chityy sheet"
 - Spaceport "Cherezternovy Kzvezdny
 - Design studio named after Too Famous Character
-- 
+  
 ```css
 .selector {
   font-family: "Awesome", Arial, sans-serif;
